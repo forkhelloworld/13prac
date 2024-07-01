@@ -30,7 +30,7 @@ console.log((Number(prompt()) + Number(prompt())) / 2);
 
 console.log(Number(prompt()) * 60);
 
-let greeting = "Hello "
+let greeting = "Hello"
 let userName;
 userName = prompt()
-console.log(greeting + userName);
+console.log(greeting + ", " + userName);
